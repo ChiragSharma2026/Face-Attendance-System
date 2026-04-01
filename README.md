@@ -115,7 +115,7 @@ Press `Q` to quit the webcam window.
 
 ## Configuration
 
-Edit `config.py` to adjust system behavior:
+Edit `config.py` to adjust the system behavior:
 
 | Parameter | Default | Description |
 |---|---|---|
